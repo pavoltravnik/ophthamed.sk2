@@ -4,7 +4,7 @@ Website of opthalmologist in Zilina Slovakia. Forked from [Dan Abramov personal 
 
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 
-Deploy
+## Deploy
 
 ```
 yarn build
