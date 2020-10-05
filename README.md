@@ -1,4 +1,4 @@
-# [opthamed.sk](https://opthamed.sk/)
+# [ophthamed.sk](https://www.ophthamed.sk/)
 
 My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
 
